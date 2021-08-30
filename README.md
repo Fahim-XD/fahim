@@ -2,11 +2,13 @@
 Fast clonning commands
 
 Author  : Fahim Ahmed
+
 Github  : https://github.com/Fahim/XD
+
 Facebook; https://Facebook.com/FaHim.PoRnHub
 
 ### Run Script ###
-''''
+'''
 
 * pkg install python
 
