@@ -218,7 +218,7 @@ class crack:
  /        \/    |    \    |   |   |   
 /_______  /\____|__  /____|   |___|
         \/         \/
-        Latif. H & Yanwar. E
+   Script BY: FahimXD | Github.com/Fahim-XD
         """)
 		self.jalan(f"[!] Welcome {self.nama} Selamat Menggunakan\n")
 		print('[1]. Crack Daftar Teman/Publik\n[2]. Crack Daftar Followers\n[C]. Cek Hasil Crack\n[S]. Setting Useragent\n[L]. Logout Script\n[R]. Laporkan Bug Or Error')
