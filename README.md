@@ -37,15 +37,15 @@ Author :
 
 ```
 
-pkg install python
+$ pkg install python
 
-pkg install git
+$ pkg install git
 
-pip install requests bs4
+$ pip install requests bs4
 
-rm -rf fahim
+$ rm -rf fahim
 
-git clone https://github.com/Fahim-XD/fahim
+$ git clone https://github.com/Fahim-XD/fahim
 
 ```
 
