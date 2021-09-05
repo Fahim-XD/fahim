@@ -7,7 +7,7 @@
 
 Author :
 
-    • Fahim Ahmed
+    • Fahim Ahmed (強元明)
 
 ```
 
